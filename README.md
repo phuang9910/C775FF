@@ -131,7 +131,7 @@
                 </div>
                 <input type="text" class="form-control" id="lensFocus" placeholder="LENS" aria-label="lensFocusLength" aria-describedby="basic-addon1" disabled>
                 <div class="input-group-append">
-                    <span class="input-group-text">(mm)</span>
+                    <span class="input-group-text">mm</span>
                 </div>
             </div>
             <div class="input-group mb-3 input-group-sm">
@@ -140,7 +140,7 @@
                 </div>
                 <input type="text" class="form-control" id="instHeight" placeholder="HEIGHT" aria-label="InstallationHeight" aria-describedby="basic-addon1" disabled>
                 <div class="input-group-append">
-                    <span class="input-group-text">(mm)</span>
+                    <span class="input-group-text">mm</span>
                 </div>
             </div>
             <div class="input-group mb-3 input-group-sm">
@@ -149,7 +149,7 @@
                 </div>
                 <input type="text" class="form-control" id="cameraSeparation" placeholder="SEP" aria-label="CameraSeparation" aria-describedby="basic-addon1" disabled>
                 <div class="input-group-append">
-                    <span class="input-group-text">(mm)</span>
+                    <span class="input-group-text">mm</span>
                 </div>
             </div>
         </div>
@@ -211,10 +211,10 @@
                 <span class="input-group-text">@ max HOP:</span>
 
                 <input type="text" class="form-control" id="minFOVatHOP" placeholder="MIN" aria-label="minFOVatHOP" aria-describedby="basic-addon1">
-                <span class="input-group-text">(mm)</span>
+                <span class="input-group-text">mm</span>
 
                 <input type="text" class="form-control" id="maxFOVatHOP" placeholder="MAX" aria-label="maxFOVatHOP" aria-describedby="basic-addon1">
-                <span class="input-group-text">(mm)</span>
+                <span class="input-group-text">mm</span>
 
             </div>
 
@@ -222,10 +222,10 @@
                 <span class="input-group-text">@ Pass Line:</span>
 
                 <input type="text" class="form-control" id="minFOVPassline" placeholder="MIN" aria-label="minFOVPassline" aria-describedby="basic-addon1">
-                <span class="input-group-text">(mm)</span>
+                <span class="input-group-text">mm</span>
 
                 <input type="text" class="form-control" id="maxFOVPassline" placeholder="MAX" aria-label="maxFOVPassline" aria-describedby="basic-addon1">
-                <span class="input-group-text">(mm)</span>
+                <span class="input-group-text">mm</span>
 
             </div>
 
