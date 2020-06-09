@@ -33,7 +33,7 @@
             color: white;
             cursor: pointer;
             padding: 10px;
-            width: 10%;
+            width: 20%;
             border: none;
             text-align: center;
             outline: none;
