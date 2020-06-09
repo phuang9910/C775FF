@@ -1,5 +1,3 @@
-﻿
-
 <html lang="en">
 <head>
     <title>Accuband C775FF Calculation</title>
