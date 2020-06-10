@@ -58,7 +58,7 @@
 
         .formDivA {
             padding: 10px;
-            border: 5px;
+            border: 2px;
             border-color: green;
             border-style: solid;
             border-top-style: solid;
@@ -68,7 +68,7 @@
         }
         .formDivB {
             padding: 10px;
-            border: 5px;
+            border: 2px;
             border-color:cadetblue;
             border-style: solid;
             border-top-style: solid;
@@ -78,7 +78,7 @@
         }
         .formDivC {
             padding: 10px;
-            border: 5px;
+            border: 2px;
             border-color: lightgrey;
             border-style: solid;
             border-top-style: solid;
